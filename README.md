@@ -148,7 +148,7 @@ Hemos utilizado este generador de árboles para simular un caso real:
 Obtuvimos nombres al azar de:
 [https://www.mockaroo.com/]
 
-Nombres:
+~~~Nombres:
 Christy Prangnell
 Orsola Sancto
 Nikkie Alven
@@ -169,3 +169,4 @@ Evonne Vigietti
 Janith Mont
 Claudia Ameer-Beg
 Carri Lee
+~~~
