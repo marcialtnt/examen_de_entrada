@@ -16,7 +16,7 @@ Resolución:
 
 Se crearon las clases en el package models y se crearon datos de prueba en el método main de la clase App.
 Se tomó como referencia el siquiente esquema para el llenado de datos:
-![alt text](https://github.com/marcialtnt/examen_de_entrada/blob/main/Test-data.png?raw=true)
+![alt text](https://github.com/marcialtnt/examen_de_entrada/blob/main/resources/Test-data.png?raw=true)
 
 Resultados obtenidos:
 ------------
