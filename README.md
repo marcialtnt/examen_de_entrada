@@ -17,6 +17,7 @@ Resolución:
 Se crearon las clases en el package models y se crearon datos de prueba en el método main de la clase App.
 Se tomó como referencia el siquiente esquema para el llenado de datos:
 ![alt text](https://github.com/marcialtnt/examen_de_entrada/blob/main/resources/Test-data.png?raw=true)
+En donde definimos a los empleados en rojo como gerentes y los que están en azul como desarrolladores.
 
 Resultados obtenidos:
 ------------
@@ -138,3 +139,33 @@ Resultados de la evaluación de desempeño:
 17.=Susana Andrzej                 Desempeño ->         MALO
 18.=Oralia Ericssen                Desempeño ->         MALO
 ~~~
+
+Referencias:
+------------
+Hemos utilizado este generador de árboles para simular un caso real:
+[https://abrandenberger.github.io/random-trees/]
+
+Obtuvimos nombres al azar de:
+[https://www.mockaroo.com/]
+
+Nombres:
+Christy Prangnell
+Orsola Sancto
+Nikkie Alven
+Ellie Lermouth
+Opalina Biernacki
+Lisle Shalloo
+Moise Maker
+Corbett Scotney
+Bartie Poe
+Kittie Eldrid
+Nanny Middleditch
+Burk McAne
+Susana Andrzej
+Oralia Ericssen
+Justinn Bartel
+Alf Feldheim
+Evonne Vigietti
+Janith Mont
+Claudia Ameer-Beg
+Carri Lee
