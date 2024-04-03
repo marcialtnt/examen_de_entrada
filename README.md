@@ -140,6 +140,14 @@ Resultados de la evaluación de desempeño:
 18.=Oralia Ericssen                Desempeño ->         MALO
 ~~~
 
+Comprobación:
+------------
+Utilizamos el siguiente caso para comprobar el cálculo del bono:
+Corbett Scotney (Desarrollador) tiene un desempeño *REGULAR* y conoce dos lenguajes de programación (Java y Python).
+Según la fórmula propuesta debería tener:
+Bono = (1000 / 2 ) * 0.1 = 500 / 2 = 250.00
+* La mitad del bono por ser desarrollador y la mitad porque su desempeño es *REGULAR*, lo cual corrobora que el algoritmo funciona según lo esperado.
+
 Referencias:
 ------------
 Hemos utilizado este generador de árboles para simular un caso real:
